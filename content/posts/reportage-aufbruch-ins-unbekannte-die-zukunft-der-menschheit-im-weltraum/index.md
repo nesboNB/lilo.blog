@@ -18,7 +18,13 @@ Die Frage nach der Energieversorgung ist ein entscheidendes Thema des Klimawande
 
 Ein vielversprechendes Konzept neben einer Dyson-Sphäre, welche noch weit in der Zukunft liegt, ist Fusionsenergie. Hierbei wird Energie durch die Verschmelzung von Atomkernen gewonnen, ähnlich wie bei der Energieerzeugung in der Sonne. Dieses Verfahren ist nicht nur effizienter als herkömmliche Energieerzeugung, sondern auch umweltfreundlicher und sicherer.
 
-INFOBOX DYSON SPHÄRE
+{{<box>}}
+Eine Dyson Sphäre ist eine Riesenkonstruktion, welche einen ganzen Stern umschliesst, um dadurch alle möglichen Ausschüttungen von Wärmeenergie einzufangen und für sich zu gewinnen. 
+
+
+
+
+{{</box>}}
 
 Das Experteninterview bestätigt diese Ansicht. Denn Professor Dr. Ben Moore sieht in der Fusionsenergie eine vielversprechende Energiequelle für die Zukunft und eine Eintrittskarte zu nahezu grenzenloser Energie. Seine Meinung bestätigt sich durch seine Vereinfachung des Prozesses.
 
@@ -59,7 +65,13 @@ Ein weiterer Ort, an dem die Menschheit praktisch unendlich ausbreiten und das P
 
 In der Zukunft wird uns der Transport von Ressourcen und Personen eine Herausforderung stellen. In der Vergangenheit und auch noch aktuell müssen Raketen und Raumfahrzeuge mit ausreichend Treibstoff und Lebensmitteln ausgestattet werden, um lange Reisen durch das Weltall zu ermöglichen. Doch dies ist teuer und aufwendig. Deshalb arbeiten Forscher daran, effizientere Methoden zu finden, um Raumfahrzeuge mit weniger Treibstoff längere Strecken zurücklegen zu lassen. Ein Beispiel dafür ist die Firma „SpaceX“, welche sich schon seit mehreren Jahren mit der effizienten Raumfahrt auseinandersetzt. 
 
-INFOBOX SPACEX
+{{<box>}}
+SpaceX ist ein Raumfahrtunternehmen, das den Zugang zum Weltraum vereinfachen und den Mars kolonisieren will. Sie bauen wiederverwendbare Raketen und waren das erste private Unternehmen, das Menschen ins All beförderte.
+
+
+
+
+{{</box>}}
 
 Eine mögliche Option, um die Umsiedlung in den Weltraum zu erleichtern, ist der Bau eines Weltraum-Lifts. Dieser Lift könnte aus einem senkrechten Seil oder einer ähnlichen Konstruktion bestehen und Raumfahrzeuge entlang dieses Seils beschleunigen, um schneller und ressourceneffizienter in den Weltraum zu gelangen. Die Idee einer solchen Konstruktion gibt es bereits seit über 120 Jahren, doch damals fehlten die Materialien, um ein solch stabiles Seil aufzustellen. Heute können wir diese Materialien herstellen, jedoch bleibt das Problem, wie wir das schwere Material in die Höhe befördern. 
 
