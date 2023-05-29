@@ -28,10 +28,10 @@ Außer den neuen Arten Energie zu gewinnen, gibt es auch neue Arten Ressourcen z
 Zudem sind andere Planeten, wie der Mars, auch potenzielle Quellen für wertvolle Ressourcen. Mit seiner kargen Oberfläche und seinen reichen mineralischen Ressourcen könnte der Mars für Bergbauunternehmen ein attraktives Ziel werden. Dabei geht es vor allem um Rohstoffe, die für den Aufbau einer Kolonie auf dem Planeten benötigt werden.
 Die Ressourcengewinnung auf Asteroiden und anderen Planeten bietet enorme Möglichkeiten für die Menschheit. Allerdings gibt es auch Bedenken hinsichtlich der Auswirkungen auf den Planeten oder den Asteroiden und seine Umgebung. Es ist wichtig, dass die Raumfahrtunternehmen und Wissenschaftler sich auf eine umweltfreundliche und nachhaltige Ressourcengewinnung konzentrieren, um sicherzustellen, dass die Auswirkungen auf die Umwelt minimiert werden. 
 
-## Finanzierung der Mission 
+## Finanzierung der Mission
 
 > "Geld ist und bleibt ein Problem"
-kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in das Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
+> kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in das Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
 
 ## Das erste Ziel
 
@@ -50,3 +50,7 @@ Sobald wir es geschafft haben, den Mond zu unserem Gebiet zu machen, können wir
 ## Das Leben mitten im Weltraum
 
 Ein weiterer Ort, an dem die Menschheit praktisch unendlich ausbreiten und das Platzproblem lösen könnte, wäre mitten im Weltraum. Die Idee klingt zwar utopisch, aber in Zeiten, in denen das Bevölkerungswachstum und die Ressourcenknappheit immer bedrohlicher werden, ist es notwendig, innovative Lösungen zu suchen. Natürlich wäre Sauerstoff eine der größten Herausforderungen für das Leben im Weltall, da es keinen natürlichen Vorrat gibt. Man müsste ein geschlossenes System machen, in dem der Sauerstoff nicht entweichen kann. Eine Möglichkeit wäre, den Sauerstoff mit großen Ladungen dorthin zu transportieren, aber das wäre nicht sehr nachhaltig. Eine andere Lösung wäre, ein eigenes Ökosystem im Weltraum zu schaffen, indem wir Pflanzen anpflanzen und damit Sauerstoff produzieren. Mit dieser Methode könnten wir die Bevölkerung im Weltall unabhängig von der Bevölkerung hier auf der Erde machen und so möglicherweise einige der Probleme unserer Menschheit lösen.
+
+
+
+![](reportage_zukunft.jpg "Eine baldige Zukunft für die Menschheit.")
