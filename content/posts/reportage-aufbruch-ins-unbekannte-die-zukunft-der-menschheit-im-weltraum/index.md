@@ -1,7 +1,7 @@
 +++
 title = "Reportage \"Aufbruch ins Unbekannte: Die Zukunft der Menschheit im Weltraum\""
 date = "2023-05-29"
-draft = true
+draft = false
 pinned = true
 tags = ["reportage"]
 description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die Ressourcen schwinden und der Platz wird knapp. Doch was, wenn wir einen Ausweg hätten? Die Antwort scheint im Weltall zu liegen. Aber wie sollen wir dorthin gelangen und woher nehmen wir die benötigten Mittel? Wir haben recherchiert und waren auf der Suche nach Antworten."
