@@ -3,6 +3,7 @@ title = "Reportage \"Aufbruch ins Unbekannte: Die Zukunft der Menschheit im Welt
 date = "2023-05-29"
 draft = true
 pinned = true
+tags = ["reportage"]
 description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die Ressourcen schwinden und der Platz wird knapp. Doch was, wenn wir einen Ausweg hätten? Die Antwort scheint im Weltall zu liegen. Aber wie sollen wir dorthin gelangen und woher nehmen wir die benötigten Mittel? Wir haben recherchiert und waren auf der Suche nach Antworten."
 +++
 Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
@@ -31,7 +32,8 @@ Die Ressourcengewinnung auf Asteroiden und anderen Planeten bietet enorme Mögli
 ## Finanzierung der Mission
 
 > "Geld ist und bleibt ein Problem"
-> kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in das Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
+
+kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in das Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
 
 ## Das erste Ziel
 
@@ -51,6 +53,20 @@ Sobald wir es geschafft haben, den Mond zu unserem Gebiet zu machen, können wir
 
 Ein weiterer Ort, an dem die Menschheit praktisch unendlich ausbreiten und das Platzproblem lösen könnte, wäre mitten im Weltraum. Die Idee klingt zwar utopisch, aber in Zeiten, in denen das Bevölkerungswachstum und die Ressourcenknappheit immer bedrohlicher werden, ist es notwendig, innovative Lösungen zu suchen. Natürlich wäre Sauerstoff eine der größten Herausforderungen für das Leben im Weltall, da es keinen natürlichen Vorrat gibt. Man müsste ein geschlossenes System machen, in dem der Sauerstoff nicht entweichen kann. Eine Möglichkeit wäre, den Sauerstoff mit großen Ladungen dorthin zu transportieren, aber das wäre nicht sehr nachhaltig. Eine andere Lösung wäre, ein eigenes Ökosystem im Weltraum zu schaffen, indem wir Pflanzen anpflanzen und damit Sauerstoff produzieren. Mit dieser Methode könnten wir die Bevölkerung im Weltall unabhängig von der Bevölkerung hier auf der Erde machen und so möglicherweise einige der Probleme unserer Menschheit lösen.
 
-
-
 ![](reportage_zukunft.jpg "Eine baldige Zukunft für die Menschheit.")
+
+## Transport und Kommunikation
+
+In der Zukunft wird uns der Transport von Ressourcen und Personen eine Herausforderung stellen. In der Vergangenheit und auch noch aktuell müssen Raketen und Raumfahrzeuge mit ausreichend Treibstoff und Lebensmitteln ausgestattet werden, um lange Reisen durch das Weltall zu ermöglichen. Doch dies ist teuer und aufwendig. Deshalb arbeiten Forscher daran, effizientere Methoden zu finden, um Raumfahrzeuge mit weniger Treibstoff längere Strecken zurücklegen zu lassen. Ein Beispiel dafür ist die Firma „SpaceX“, welche sich schon seit mehreren Jahren mit der effizienten Raumfahrt auseinandersetzt. 
+
+INFOBOX SPACEX
+
+Eine mögliche Option, um die Umsiedlung in den Weltraum zu erleichtern, ist der Bau eines Weltraum-Lifts. Dieser Lift könnte aus einem senkrechten Seil oder einer ähnlichen Konstruktion bestehen und Raumfahrzeuge entlang dieses Seils beschleunigen, um schneller und ressourceneffizienter in den Weltraum zu gelangen. Die Idee einer solchen Konstruktion gibt es bereits seit über 120 Jahren, doch damals fehlten die Materialien, um ein solch stabiles Seil aufzustellen. Heute können wir diese Materialien herstellen, jedoch bleibt das Problem, wie wir das schwere Material in die Höhe befördern. 
+
+Anstatt uns nur auf den Transport zu konzentrieren, müssen wir auch eine bessere Methode finden, um zwischen diesen langen Distanzen zu kommunizieren. Momentan ist die schnellste Methode, die wir zur Übermittlung von Nachrichten verwenden können, ein Lichtsignal. Doch diese Technologie wird heutzutage nicht sehr oft genutzt, und um die Zukunft unserer Weltraumexpeditionen zu sichern, müssen wir uns auf diese Methode konzentrieren. 
+
+Wenn wir eines Tages andere Sterne besiedeln wollen, könnte uns das Problem der Kommunikation in die Quere kommen. Ben Moore hat treffend darauf hingewiesen: “Communication can’t get any better because, as Einstein said, nothing can travel faster than light”. Das bedeutet, dass es unmöglich ist, Signale schneller als die Lichtgeschwindigkeit zu übertragen. Um ein Signal zum nächstgelegenen Stern zu senden, würde es etwa viereinhalb Jahre dauern. Dieses Hindernis stellt uns vor eine große Herausforderung, die unsere Zukunft im Weltraum limitiert.
+
+## Fazit
+
+In dieser Reportage haben wir uns mit der Frage beschäftigt, welche Schritte noch notwendig sind, damit wir Menschen uns vollständig von der Erde lösen und andere Planeten bevölkern können. Wir haben uns dabei mit verschiedenen Ideen zur Energiegewinnung, den möglichen Erscheinungsbildern interstellarer Zivilisationen und den Finanzierungsmöglichkeiten auseinandergesetzt. Trotz der Befragung von Experten bekamen wir keine klare Antwort. Die Zukunft der Raumfahrt ist noch unbekannt und es bleibt abzuwarten, ob wir uns tatsächlich auf den Weg machen werden, den Weltraum zu erforschen. Wir hoffen aber, dass wir nicht nur Zuschauer des Universums bleiben, sondern auch daran teilhaben werden. Es ist unser Wunsch, dass unsere Nachkommen in einer Welt leben werden, in der die Erde nicht mehr unsere einzige Zuflucht ist.
