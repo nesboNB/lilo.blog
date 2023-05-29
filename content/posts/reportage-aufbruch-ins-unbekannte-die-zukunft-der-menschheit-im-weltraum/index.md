@@ -21,9 +21,6 @@ Ein vielversprechendes Konzept neben einer Dyson-Sphäre, welche noch weit in de
 {{<box>}}
 Eine Dyson Sphäre ist eine Riesenkonstruktion, welche einen ganzen Stern umschliesst, um dadurch alle möglichen Ausschüttungen von Wärmeenergie einzufangen und für sich zu gewinnen. 
 
-
-
-
 {{</box>}}
 
 Das Experteninterview bestätigt diese Ansicht. Denn Professor Dr. Ben Moore sieht in der Fusionsenergie eine vielversprechende Energiequelle für die Zukunft und eine Eintrittskarte zu nahezu grenzenloser Energie. Seine Meinung bestätigt sich durch seine Vereinfachung des Prozesses.
@@ -59,7 +56,7 @@ Sobald wir es geschafft haben, den Mond zu unserem Gebiet zu machen, können wir
 
 Ein weiterer Ort, an dem die Menschheit praktisch unendlich ausbreiten und das Platzproblem lösen könnte, wäre mitten im Weltraum. Die Idee klingt zwar utopisch, aber in Zeiten, in denen das Bevölkerungswachstum und die Ressourcenknappheit immer bedrohlicher werden, ist es notwendig, innovative Lösungen zu suchen. Natürlich wäre Sauerstoff eine der größten Herausforderungen für das Leben im Weltall, da es keinen natürlichen Vorrat gibt. Man müsste ein geschlossenes System machen, in dem der Sauerstoff nicht entweichen kann. Eine Möglichkeit wäre, den Sauerstoff mit großen Ladungen dorthin zu transportieren, aber das wäre nicht sehr nachhaltig. Eine andere Lösung wäre, ein eigenes Ökosystem im Weltraum zu schaffen, indem wir Pflanzen anpflanzen und damit Sauerstoff produzieren. Mit dieser Methode könnten wir die Bevölkerung im Weltall unabhängig von der Bevölkerung hier auf der Erde machen und so möglicherweise einige der Probleme unserer Menschheit lösen.
 
-![](reportage_zukunft.jpg "Eine baldige Zukunft für die Menschheit.")
+![Eine baldige Zukunft für die Menschheit. Bildquelle: benmoore.ch](reportage_zukunft.jpg "Eine baldige Zukunft für die Menschheit.")
 
 ## Transport und Kommunikation
 
@@ -67,9 +64,6 @@ In der Zukunft wird uns der Transport von Ressourcen und Personen eine Herausfor
 
 {{<box>}}
 SpaceX ist ein Raumfahrtunternehmen, das den Zugang zum Weltraum vereinfachen und den Mars kolonisieren will. Sie bauen wiederverwendbare Raketen und waren das erste private Unternehmen, das Menschen ins All beförderte.
-
-
-
 
 {{</box>}}
 
