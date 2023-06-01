@@ -13,8 +13,6 @@ Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gele
 
 ![Ben Moore](benmoore.png.jpg)
 
-
-
 Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
 
 ## Energie und Ressourcen
@@ -52,6 +50,8 @@ Der am nächsten gelegene Ort, bei dem wir weitere Lebensräume errichten könnt
 > "The biggest problem is the atmosphere"
 
 ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher Strahlung und Partikeln aus dem Weltall schützt. Es hat zwar eine sehr geringe Atmosphäre, welche aber viel zu undicht wäre, um dort ein Leben zu führen. 
+
+![](bild5.jpg)
 
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
