@@ -9,9 +9,11 @@ description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die R
 +++
 Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
 
+*Eine Reportage von Said Khalef und Nestor Borter*
+
 ![Ben Moore](benmoore.png.jpg)
 
-Eine Reportage von Said Khalef und Nestor Borter
+
 
 Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
 
