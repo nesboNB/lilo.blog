@@ -49,6 +49,8 @@ Der am nächsten gelegene Ort, bei dem wir weitere Lebensräume errichten könnt
 
 ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher Strahlung und Partikeln aus dem Weltall schützt. Es hat zwar eine sehr geringe Atmosphäre, welche aber viel zu undicht wäre, um dort ein Leben zu führen. 
 
+![](syrien.jpg)
+
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
 Der erste Schritt, für eine Mondbasis wäre, eine weitere Erkundung des Mondes, um den besten Ort für die Basis zu finden. Ein Ort mit einer stabilen Oberfläche, Zugang zu Ressourcen wäre von großer Bedeutung. Um diese Ressourcen zu nutzen, müssten Roboter und bemannte Missionen geschickt werden, um den Mondboden zu erkunden. Sobald der ideale Standort gefunden ist, müssten Baupläne für die Mondbasis erstellt werden. Die Basis könnte in Stücken aufgebaut werden und aus verschiedenen Abteilungen oder Zimmern bestehen, die von der Erde ausgeschickt und auf dem Mond zusammengebaut werden könnten. Ein weiterer wichtiger Schritt wäre die Schaffung von Lebensbedingungen in der Mondbasis. Die Basis müsste mit ausreichender Luftversorgung, Wassergewinnungs- und Recyclinganlagen, Nahrungsmittelproduktion und medizinischer Ausrüstung ausgestattet sein, um die Astronauten am Leben zu halten.
