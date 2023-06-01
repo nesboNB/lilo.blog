@@ -4,6 +4,7 @@ date = "2023-06-01"
 draft = false
 pinned = true
 tags = ["Reportage", "Deutsch"]
+image = "mond.jpg"
 description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die Ressourcen schwinden und der Platz wird knapp. Doch was, wenn wir einen Ausweg hätten? Die Antwort scheint im Weltall zu liegen. Aber wie sollen wir dorthin gelangen und woher nehmen wir die benötigten Mittel? Wir haben recherchiert und waren auf der Suche nach Antworten."
 +++
 Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
@@ -47,8 +48,6 @@ Der am nächsten gelegene Ort, bei dem wir weitere Lebensräume errichten könnt
 > "The biggest problem is the atmosphere"
 
 ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher Strahlung und Partikeln aus dem Weltall schützt. Es hat zwar eine sehr geringe Atmosphäre, welche aber viel zu undicht wäre, um dort ein Leben zu führen. 
-
-![Der Mond](mond.jpg)
 
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
