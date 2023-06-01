@@ -1,5 +1,5 @@
 +++
-title = "Reportage \"Aufbruch ins Unbekannte: Die Zukunft der Menschheit im Weltraum\""
+title = "Aufbruch ins Unbekannte: Die Zukunft der Menschheit im Weltraum"
 date = "2023-06-01"
 draft = false
 pinned = true
