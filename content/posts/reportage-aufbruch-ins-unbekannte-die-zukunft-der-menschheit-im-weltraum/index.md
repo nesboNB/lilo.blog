@@ -55,7 +55,7 @@ Der am nächsten gelegene Ort, bei dem wir weitere Lebensräume errichten könnt
 
 ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher Strahlung und Partikeln aus dem Weltall schützt. Es hat zwar eine sehr geringe Atmosphäre, welche aber viel zu undicht wäre, um dort ein Leben zu führen. 
 
-![Unser erstes Ziel, Bild aufgenommen von Said Khalef](bild5.jpg)
+![Unser erstes Ziel, aufgenommen von Said Khalef](bild5.jpg)
 
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
