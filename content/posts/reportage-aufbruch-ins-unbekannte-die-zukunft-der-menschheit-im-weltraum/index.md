@@ -9,7 +9,7 @@ description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die R
 +++
 {{<lead>}}
 
-Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
+Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, einen Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, einen Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
 
 {{</lead>}}
 
@@ -17,11 +17,11 @@ Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gele
 
 ![Ben Moore](benmoore.png.jpg)
 
-Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
+Der Klimawandel ist schon seit längerer Zeit ein gravierendes Problem für die Menschheit. Er droht unseren momentanen Lebensort, unbewohnbar zu machen. Das heisst, wir müssen den Klimawandel so gut es geht stoppen, aber dies ist leider schon fast zu spät. Daher scheint die Flucht auf einen neuen Planeten der einzige Weg zu sein, dem Klimawandel zu entkommen. Doch wohin zuerst? Naja, dieses Ziel ist näher, als man denkt.
 
 ## Energie und Ressourcen
 
-Die Frage nach der Energieversorgung ist ein entscheidendes Thema des Klimawandels und für die Zukunft der Menschheit. Vor allem, wenn es um die Besiedlung anderer Planeten geht. Denn ohne ausreichende Energieversorgung können wir nicht einmal eine Mission starten, geschweige denn einen lebensfähigen Ort auf fremden Himmelskörper errichten. Doch dieser Mangel an Energie könnte nicht nur ein Problem, sondern auch eine Gelegenheit für den Fortschritt sein. Denn durch die Entdeckung und Erschließung neuer Planeten könnten wir nicht nur mehr Ressourcen für die Energiegewinnung nutzen, sondern auch effizientere und nachhaltigere Energiequellen entwickeln. 
+Die Frage nach der Energieversorgung ist ein entscheidendes Thema des Klimawandels und für die Zukunft der Menschheit. Vor allem, wenn es um die Besiedlung anderer Planeten geht. Denn ohne ausreichende Energieversorgung können wir nicht einmal eine Mission starten, geschweige denn einen lebensfähigen Ort auf fremden Himmelskörpern errichten. Doch dieser Mangel an Energie könnte nicht nur ein Problem, sondern auch eine Gelegenheit für den Fortschritt sein. Denn durch die Entdeckung und Erschließung neuer Planeten könnten wir nicht nur mehr Ressourcen für die Energiegewinnung nutzen, sondern auch effizientere und nachhaltigere Energiequellen entwickeln. 
 
 > "Unsere Energiequellen sind zurzeit grösstenteils nicht nachhaltig" – Dominik Joss
 
@@ -39,13 +39,13 @@ Das Experteninterview bestätigt diese Ansicht. Denn Professor Dr. Ben Moore sie
 Die Erschließung neuer Planeten und die Entwicklung effizienterer Energiequellen könnten somit nicht nur zur Lösung der Energieprobleme beitragen, sondern auch neue wissenschaftliche Erkenntnisse und Technologien hervorbringen. Mit dem richtigen Einsatz von Energie und Technologie könnten wir jetzige Probleme meistern und uns auf eine erfolgreiche Zukunft im Weltraum vorbereiten.
 Außer den neuen Arten Energie zu gewinnen, gibt es auch neue Arten Ressourcen zu kriegen. Ressourcengewinnung von Asteroiden und anderen Planeten wird nämlich zunehmend zu einem Thema von großem Interesse für Wissenschaftler und Raumfahrtunternehmen. Mit der zunehmenden Übernutzung von Ressourcen auf der Erde wird der Abbau von Rohstoffen auf anderen Himmelskörpern immer attraktiver. Die Idee Asteroiden für Mineralien und andere Ressourcen zu ernten, wird schon von vielen Weltraumunternehmen in Betracht gezogen. Einige dieser Unternehmen sind schon dabei, die Technologien für den Abbau von Rohstoffen auf Asteroiden zu entwickeln. Dabei geht es um eine Vielzahl von Materialien, einschließlich wertvoller Metalle wie Platin, Palladium und Gold, aber auch wertvollere Mineralien, welche für Forschungen brauchbar sind. 
 Zudem sind andere Planeten, wie der Mars, auch potenzielle Quellen für wertvolle Ressourcen. Mit seiner kargen Oberfläche und seinen reichen mineralischen Ressourcen könnte der Mars für Bergbauunternehmen ein attraktives Ziel werden. Dabei geht es vor allem um Rohstoffe, die für den Aufbau einer Kolonie auf dem Planeten benötigt werden.
-Die Ressourcengewinnung auf Asteroiden und anderen Planeten bietet enorme Möglichkeiten für die Menschheit. Allerdings gibt es auch Bedenken hinsichtlich der Auswirkungen auf den Planeten oder den Asteroiden und seine Umgebung. Es ist wichtig, dass die Raumfahrtunternehmen und Wissenschaftler sich auf eine umweltfreundliche und nachhaltige Ressourcengewinnung konzentrieren, um sicherzustellen, dass die Auswirkungen auf die Umwelt minimiert werden. 
+Die Ressourcengewinnung auf Asteroiden und anderen Planeten bietet enorme Möglichkeiten für die Menschheit. Allerdings gibt es auch Bedenken hinsichtlich der Auswirkungen auf den Planeten oder den Asteroiden und deren Umgebung. Es ist wichtig, dass die Raumfahrtunternehmen und Wissenschaftler sich auf eine umweltfreundliche und nachhaltige Ressourcengewinnung konzentrieren, um sicherzustellen, dass die Auswirkungen auf die Umwelt minimiert werden. 
 
 ## Finanzierung der Mission
 
 > "Geld ist und bleibt ein Problem"
 
-kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in das Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
+kriegen wir als Antwort, wenn wir Dominik Joss, nach seiner Meinung zur Finanzierung der Mission fragen. Und das ist auch kein Wunder, denn wie sollen wir genügend Einnahmequellen finden, wenn der Erfolg der Mission keineswegs garantiert ist? Doch es gibt bereits eine vielversprechende Lösung für diese Herausforderung. Denn es gibt bereits mutige Privatpersonen wie Elon Musk, die ihr eigenes Vermögen in ein solches Projekt investiert haben und dabei eine Zukunft sehen, in der sich diese Investitionen für sie auszahlen werden.
 
 ## Das erste Ziel
 
@@ -59,7 +59,7 @@ ist das Hauptproblem das Fehlen einer Atmosphäre, die den Mond vor schädlicher
 
 Zusätzlich stellt auch die extreme Temperaturdifferenz auf dem Mond eine Herausforderung dar, bei der die Temperatur tagsüber bis auf 120 Grad Celsius ansteigen kann und nachts bis auf -170 Grad Celsius sinkt. Es würde viel Geld kosten, um die Temperatur bei einer Mondbasis so zu stabilisieren, dass wir dort leben könnten. 
 
-Der erste Schritt, für eine Mondbasis wäre, eine weitere Erkundung des Mondes, um den besten Ort für die Basis zu finden. Ein Ort mit einer stabilen Oberfläche, Zugang zu Ressourcen wäre von großer Bedeutung. Um diese Ressourcen zu nutzen, müssten Roboter und bemannte Missionen geschickt werden, um den Mondboden zu erkunden. Sobald der ideale Standort gefunden ist, müssten Baupläne für die Mondbasis erstellt werden. Die Basis könnte in Stücken aufgebaut werden und aus verschiedenen Abteilungen oder Zimmern bestehen, die von der Erde ausgeschickt und auf dem Mond zusammengebaut werden könnten. Ein weiterer wichtiger Schritt wäre die Schaffung von Lebensbedingungen in der Mondbasis. Die Basis müsste mit ausreichender Luftversorgung, Wassergewinnungs- und Recyclinganlagen, Nahrungsmittelproduktion und medizinischer Ausrüstung ausgestattet sein, um die Astronauten am Leben zu halten.
+Der erste Schritt, für die Errichtung einer Mondbasis wäre, eine weitere Erkundung des Mondes, um den besten Ort für die Basis zu finden. Ein Ort mit einer stabilen Oberfläche und einem Zugang zu Ressourcen wäre von großer Bedeutung. Um diese Ressourcen zu nutzen, müssten Roboter und bemannte Missionen geschickt werden, um den Mondboden zu erkunden. Sobald der ideale Standort gefunden ist, müssten Baupläne für die Mondbasis erstellt werden. Die Basis könnte in Stücken aufgebaut werden und aus verschiedenen Abteilungen oder Zimmern bestehen, die von der Erde ausgeschickt und auf dem Mond zusammengebaut werden könnten. Ein weiterer wichtiger Schritt wäre die Schaffung von Lebensbedingungen in der Mondbasis. Die Basis müsste mit ausreichender Luftversorgung, Wassergewinnungs- und Recyclinganlagen, Nahrungsmittelproduktion und medizinischer Ausrüstung ausgestattet sein, um die Astronauten am Leben zu halten.
 
 Sobald wir es geschafft haben, den Mond zu unserem Gebiet zu machen, können wir beginnen uns an grössere Missionen zu wagen, wie zum Beispiel die Besiedlung vom Mars. 
 
