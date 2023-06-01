@@ -7,7 +7,7 @@ tags = ["Reportage", "Deutsch"]
 image = "reportage_zukunft.jpg"
 description = "Die Erde stößt an ihre Grenzen: Die Bevölkerung wächst, die Ressourcen schwinden und der Platz wird knapp. Doch was, wenn wir einen Ausweg hätten? Die Antwort scheint im Weltall zu liegen. Aber wie sollen wir dorthin gelangen und woher nehmen wir die benötigten Mittel? Wir haben recherchiert und waren auf der Suche nach Antworten."
 +++
-### Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
+Auf unserer Reise haben wir viel über die Vor- und Nachteile dieser Flucht gelernt. Wir haben ein Sachbuch gelesen und Ben Moore, ein Astrophysiker an der Universität Zürich und Fachmann im Bereich, sowie Dominik Joss, ein Geschichtslehrer am Gymnasium Kirchenfeld, befragt, um Informationen und Meinungen zum Thema zu erhalten. 
 
 ***Eine Reportage von Said Khalef und Nestor Borter***
 
